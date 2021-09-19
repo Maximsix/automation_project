@@ -25,4 +25,3 @@ class Cookie:
         self.__driver.delete_cookie(name)
 
 
-

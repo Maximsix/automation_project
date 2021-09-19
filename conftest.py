@@ -18,4 +18,3 @@ def dashboard(driver) -> Dashboard:
 
 
 
-
