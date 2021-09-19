@@ -40,4 +40,3 @@ class BasePage:
         selector.is_displayed()
 
 
-
