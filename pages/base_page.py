@@ -39,5 +39,3 @@ class BasePage:
         selector = self._wait_until_element_appears(locator)
         selector.is_displayed()
 
-
-
